@@ -1,2 +1,4 @@
 This file will be the conflicting file.
 online added.this is a local
+
+This line added manually.
