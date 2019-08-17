@@ -1,2 +1,2 @@
 This is test file
-This is line 2
+This is line 2 modified from local
