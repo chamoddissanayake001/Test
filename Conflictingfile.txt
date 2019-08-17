@@ -1,3 +1,2 @@
 This file will be the conflicting file.
-2nd line added by developer 1
-this is a local
+online added.this is a local
